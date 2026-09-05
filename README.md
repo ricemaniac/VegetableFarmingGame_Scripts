@@ -13,7 +13,7 @@
   * 全野菜収穫時のコンプリート判定機能
 
 ## 主要スクリプト
-* [GManager.cs](./Assets/Scripts/GManager.cs) - 所持金・野菜の取得状況・セーブロード・コンプ判定等の管理
-* [PlayerController.cs](./Assets/Scripts/PlayerController.cs) - プレイヤーの移動・農作業アクション・タイル判定制御
-* [SellVegetable.cs](./Assets/Scripts/SellVegetable.cs) - 野菜の売却制御
-* [BuySeed.cs](./Assets/Scripts/BuySeed.cs) - 種の購入制御
+* [GManager.cs](./GManager.cs) - 所持金・野菜の取得状況・セーブロード・コンプ判定等の管理
+* [PlayerController.cs](./PlayerController.cs) - プレイヤーの移動・農作業アクション・タイル判定制御
+* [SellVegetable.cs](./SellVegetable.cs) - 野菜の売却制御
+* [BuySeed.cs](./BuySeed.cs) - 種の購入制御
